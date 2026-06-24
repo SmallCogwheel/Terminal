@@ -63,15 +63,50 @@ body {
     line-height: 1.7;
     white-space: pre-wrap;
     word-break: break-all;
+    color: #c5e3af;
 }
 
-.t_prompt { color: #c8f542; }
-.t_cmd    { color: #ffffff; }
-.t_out    { color: #555555; }
-.t_err    { color: #ff5f56; }
-.t_ok     { color: #42f5c8; }
-.t_info   { color: #c8f542; }
-.t_line   { color: #c5e3af; }
+.t_prompt { 
+    font-size: 13px;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-all;
+    color: #c8f542; 
+}
+.t_cmd    { 
+    font-size: 13px;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-all;
+    color: #ffffff; }
+.t_out    { 
+    font-size: 13px;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-all;
+    color: #555555; 
+}
+.t_err    { 
+    font-size: 13px;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-all;
+    color: #ff5f56; 
+}
+.t_ok     {     
+    font-size: 13px;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-all;
+    color: #42f5c8; 
+}
+.t_info   { 
+    font-size: 13px;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-all;
+    color: #c8f542; 
+}
 
 .input_line {
     display: flex;
