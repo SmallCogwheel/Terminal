@@ -71,7 +71,7 @@ const OPEN_MAP = {
 
 function addLine(cls, text) {
     const d = document.createElement('div')
-    d.className = 't_line ' + cls
+    d.className =  cls
     d.textContent = text
     output.appendChild(d)
 }
